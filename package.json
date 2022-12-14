@@ -1,0 +1,16 @@
+{
+  "name": "test-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pran.test.js",
+  "scripts": {
+    "test": "jest --coverage --verbose true"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "yargs": "^17.6.2"
+  }
+}
